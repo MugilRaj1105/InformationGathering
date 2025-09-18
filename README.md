@@ -107,6 +107,5 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ### UDP traceroute :
 <img width="731" height="527" alt="479599727-7478e1f6-9ed0-4a13-8629-fed1faa85635" src="https://github.com/user-attachments/assets/2780d89c-2653-4b30-b5e9-ff99b4aeb0ee" />
 
-
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
